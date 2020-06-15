@@ -1,4 +1,4 @@
-tainer unless it mounts a persistent volume, i.e. where you want to store your website data# Docker example stacks
+# Docker example stacks
 
 This repository contains a curated list of stacks to showcase the docker images
 available in the public docker registry.
@@ -23,7 +23,7 @@ For example, if adding a stack for a DB, try to also add a web interface contain
 This is a list of the stacks we would love to have here:
 
 - [x] ~~registry~~
-- [ ] prometheus
+- [x] ~~prometheus~~
 - [x] ~~jenkings~~
 - [ ] rabbitmq
 - [ ] memcached
@@ -32,7 +32,7 @@ This is a list of the stacks we would love to have here:
 - [x] ~~ghost~~
 - [ ] telegraf
 - [ ] drupal
-- [ ] neo4j
+- [x] neo4j
 - [ ] influxdb
 - [ ] crate
 - [ ] zookeeper
